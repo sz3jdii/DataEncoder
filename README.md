@@ -16,7 +16,7 @@ DataEncoder is an app built with Angular 🚀 showing how encoding with CRC, Ham
 
 DataEncoder uses:
 
-- [Angular] - Learn once, write anywhere.
+- [Angular] - The modern web developer's platform
 
 
 ## Installation
