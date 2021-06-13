@@ -1,27 +1,44 @@
-# DataTransmision
+# DataEncoder
+## Final project for the subject of Teleinformatics in the 4th year of computer science studies.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+<p align="center" style="max-height: 300px;">
+  <a href="https://pollub.pl" style="max-height: 300px;"><img src="https://silkroad3d.com/wp-content/uploads/2020/04/Loga-PL-v2.png" align="center" style="max-height: 300px;" alt="Politechnika Lubelska" /></a>
+</p>
+DataEncoder is an app built with Angular 🚀 showing how encoding with CRC, Hamming's algorithms works, there's also parity control functionality.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- CRC encoding
+- Hamming's encoding
+- Parity control
 
-## Code scaffolding
+## Technologies
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+DataEncoder uses:
 
-## Build
+- [Angular] - Learn once, write anywhere.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## Installation
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+DataEncoder requires [Node.js](https://nodejs.org/) v10+ to run.
 
-## Running end-to-end tests
+Install the dependencies:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
+```sh
+npm install
+```
 
-## Further help
+Run:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```sh
+ng serve
+```
+Navigate to `http://localhost:4200/`
+## Authors
+- **Adam Świątkowski** - [sz3jdii](https://github.com/sz3jdii)
+- **Karol Ścibior** - [KarolScibior](https://github.com/KarolScibior)
+
+## License
+
+This project is licensed under the MIT License
